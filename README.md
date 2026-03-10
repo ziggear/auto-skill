@@ -2,7 +2,7 @@
 
 Make every token and every closed session **meaningful**.
 
-`auto-skill` starts from a simple belief about web coding with AI:  
+`auto-skill` starts from a simple belief about vibe coding with AI:  
 **we shouldn’t let our conversations – and the mistakes inside them – evaporate when a session ends.**
 
 When we code with AI, we constantly discover things:
