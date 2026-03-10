@@ -1,6 +1,6 @@
 ## auto-skill
 
-Make every token – and every closed session – meaningful.
+Make every token and every closed session **meaningful**.
 
 `auto-skill` starts from a simple belief about web coding with AI:  
 **we shouldn’t let our conversations – and the mistakes inside them – evaporate when a session ends.**
